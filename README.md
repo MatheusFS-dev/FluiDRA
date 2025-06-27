@@ -5,17 +5,6 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%234ea7f7&size=25&center=true&vCenter=true&width=600&height=30&lines=👋+Welcome!"></a>
 </p>
 
-![GitHub License](https://img.shields.io/github/license/MatheusFS-dev/FluiDRA)
-![GitHub Issues](https://img.shields.io/github/issues/MatheusFS-dev/FluiDRA)
-![GitHub Forks](https://img.shields.io/github/forks/MatheusFS-dev/FluiDRA)
-![GitHub Stars](https://img.shields.io/github/stars/MatheusFS-dev/FluiDRA)
-
-<p align="center">
-  <a href="#">
-      <img src="https://api.visitorbadge.io/api/VisitorHit?user=MatheusFS-dev&repo=FluiDRA&countColor=%23007FFF" />
-   </a>
-</p>
-
 A **Fluid Antenna System** (FAS) dynamically reconfigure a single RF front-end across N antenna ports to exploit spatial diversity and avoid deep fades or interference. This project evaluates an ML-driven port-selection scheme for FAS operating over κ-μ shadowed fading channels, a generalized model that encompasses Rayleigh, Rician, Nakagami-m and shadowed scenarios typical in urban/indoor environments.
 
 We cast port selection as a multivariate regression problem: given instantaneous SNR measurements from a small subset of ports (n ≪ N), a neural network predicts the channel gains across all N ports. A neural-architecture search (Optuna TPE) optimizes among Dense, Conv1D, Conv1DTranspose, and LSTM backbones, trading off accuracy and inference latency by limiting the number of observed ports.
