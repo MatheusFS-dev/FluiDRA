@@ -5,20 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/MatheusFS-dev/FluiDRA">
-    <img src="https://img.shields.io/github/license/MatheusFS-dev/FluiDRA?style=flat-square" alt="License">
-  </a>
-  <a href="https://github.com/MatheusFS-dev/FluiDRA/stargazers">
-    <img src="https://img.shields.io/github/stars/MatheusFS-dev/FluiDRA?style=flat-square" alt="Stars">
-  </a>
-  <a href="https://github.com/MatheusFS-dev/FluiDRA/network/members">
-    <img src="https://img.shields.io/github/forks/MatheusFS-dev/FluiDRA?style=flat-square" alt="Forks">
-  </a>
-  <a href="https://visitor-badge.laobi.icu/badge?page_id=MatheusFS-dev.FluiDRA">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=MatheusFS-dev.FluiDRA" alt="Visitors">
-  </a>
+  <a href="https://github.com/MatheusFS-dev/FluiDRA"><img src="https://img.shields.io/github/license/MatheusFS-dev/FluiDRA?style=flat-square" alt="License"/></a>
+  <a href="https://github.com/MatheusFS-dev/FluiDRA/stargazers"><img src="https://img.shields.io/github/stars/MatheusFS-dev/FluiDRA?style=flat-square" alt="Stars"/></a>
+  <a href="https://github.com/MatheusFS-dev/FluiDRA/network/members"><img src="https://img.shields.io/github/forks/MatheusFS-dev/FluiDRA?style=flat-square" alt="Forks"/></a>
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=MatheusFS-dev.FluiDRA"><img src="https://visitor-badge.laobi.icu/badge?page_id=MatheusFS-dev.FluiDRA" alt="Visitors"/></a>
 </p>
-
 
 A **Fluid Antenna System** (FAS) dynamically reconfigure a single RF front-end across N antenna ports to exploit spatial diversity and avoid deep fades or interference. This project evaluates an ML-driven port-selection scheme for FAS operating over κ-μ shadowed fading channels, a generalized model that encompasses Rayleigh, Rician, Nakagami-m and shadowed scenarios typical in urban/indoor environments.
 
