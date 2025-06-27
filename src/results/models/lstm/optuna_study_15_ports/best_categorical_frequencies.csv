@@ -1,0 +1,6 @@
+Parameter,Category,Fraction,Count
+params_lstm_activation_layer_0,elu,0.75,12
+params_lstm_activation_layer_0,swish,0.25,4
+params_lstm_activation_layer_1,elu,1.0,1
+params_optimizer,AdamW,1.0,16
+params_scaler,StandardScaler,1.0,16

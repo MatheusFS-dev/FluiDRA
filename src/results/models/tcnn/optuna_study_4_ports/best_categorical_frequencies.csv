@@ -1,0 +1,6 @@
+Parameter,Category,Fraction,Count
+params_dense_1_activation,relu,0.9166666666666666,11
+params_dense_1_activation,swish,0.08333333333333333,1
+params_optimizer,AdamW,1.0,12
+params_scaler,StandardScaler,1.0,12
+params_tcnn1d_activation_0,relu,1.0,12

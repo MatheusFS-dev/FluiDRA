@@ -1,0 +1,11 @@
+Parameter,Category,Fraction,Count
+params_optimizer,AdamW,1.0,8
+params_scaler,StandardScaler,0.5,4
+params_scaler,MinMaxScaler_0_1,0.5,4
+params_tcnn1d_activation_0,elu,0.5,4
+params_tcnn1d_activation_0,swish,0.375,3
+params_tcnn1d_activation_0,relu,0.125,1
+params_tcnn1d_activation_1,leaky_relu,0.875,7
+params_tcnn1d_activation_1,sigmoid,0.125,1
+params_tcnn1d_use_batch_norm_1,False,0.875,7
+params_tcnn1d_use_batch_norm_1,True,0.125,1

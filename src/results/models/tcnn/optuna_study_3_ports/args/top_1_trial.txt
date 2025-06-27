@@ -1,0 +1,18 @@
+rank: 1
+trial_id: 128
+loss: 0.2656986713409424
+num_params: 116068
+model_size_mb: 0.4427642822265625
+sampler: TPESampler
+Parameters:
+  scaler: StandardScaler
+  num_layers: 1
+  tcnn1d_pool_size_0: 3
+  tcnn1d_filters_0: 128
+  tcnn1d_kernel_size_0: 5
+  tcnn1d_activation_0: relu
+  tcnn1d_use_batch_norm_0: False
+  num_dense_layers: 0
+  optimizer: AdamW
+  learning_rate: 0.0020900886441247947
+  batch_size: 64

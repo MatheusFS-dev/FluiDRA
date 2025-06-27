@@ -1,0 +1,18 @@
+rank: 1
+trial_id: 184
+loss: 0.00012664533278439194
+num_params: 1186212
+model_size_mb: 4.5250396728515625
+sampler: TPESampler
+Parameters:
+  scaler: StandardScaler
+  num_layers: 2
+  dnn_units_0: 1312
+  dnn_activation_0: swish
+  dnn_dropout_0: 0.0
+  dnn_units_1: 832
+  dnn_activation_1: swish
+  dnn_dropout_1: 0.0
+  optimizer: AdamW
+  learning_rate: 0.00018225423781729835
+  batch_size: 128

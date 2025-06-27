@@ -1,0 +1,23 @@
+rank: 1
+trial_id: 16
+loss: 0.0001067097982740961
+num_params: 462468
+model_size_mb: 1.7641754150390625
+sampler: TPESampler
+Parameters:
+  scaler: StandardScaler
+  num_layers: 2
+  tcnn1d_pool_size_0: 6
+  tcnn1d_filters_0: 448
+  tcnn1d_kernel_size_0: 3
+  tcnn1d_activation_0: leaky_relu
+  tcnn1d_use_batch_norm_0: False
+  tcnn1d_pool_size_1: 3
+  tcnn1d_filters_1: 32
+  tcnn1d_kernel_size_1: 4
+  tcnn1d_activation_1: relu
+  tcnn1d_use_batch_norm_1: False
+  num_dense_layers: 0
+  optimizer: AdamW
+  learning_rate: 0.0008770270358355354
+  batch_size: 64

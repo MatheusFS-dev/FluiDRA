@@ -1,0 +1,30 @@
+rank: 3
+trial_id: 192
+loss: 0.07474949955940247
+num_params: 7450404
+model_size_mb: 28.421035766601562
+sampler: TPESampler
+Parameters:
+  scaler: StandardScaler
+  num_layers: 6
+  dnn_units_0: 1088
+  dnn_activation_0: elu
+  dnn_dropout_0: 0.30000000000000004
+  dnn_units_1: 800
+  dnn_activation_1: swish
+  dnn_dropout_1: 0.4
+  dnn_units_2: 1824
+  dnn_activation_2: elu
+  dnn_dropout_2: 0.0
+  dnn_units_3: 1824
+  dnn_activation_3: relu
+  dnn_dropout_3: 0.2
+  dnn_units_4: 448
+  dnn_activation_4: elu
+  dnn_dropout_4: 0.1
+  dnn_units_5: 1760
+  dnn_activation_5: relu
+  dnn_dropout_5: 0.2
+  optimizer: AdamW
+  learning_rate: 3.824969841508082e-05
+  batch_size: 256

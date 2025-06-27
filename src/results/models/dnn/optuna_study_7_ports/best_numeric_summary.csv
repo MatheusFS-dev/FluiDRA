@@ -1,0 +1,16 @@
+Parameter,Mean,Std,Min,25%,Median,75%,Max
+params_batch_size,128.0,0.0,128.0,128.0,128.0,128.0,128.0
+params_dnn_dropout_0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+params_dnn_dropout_1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+params_dnn_dropout_2,,,,,,,
+params_dnn_dropout_3,,,,,,,
+params_dnn_dropout_4,,,,,,,
+params_dnn_dropout_5,,,,,,,
+params_dnn_units_0,1612.0,411.5587095768615,1120.0,1264.0,1616.0,1992.0,2048.0
+params_dnn_units_1,1000.0,165.61573424216502,832.0,856.0,976.0,1096.0,1248.0
+params_dnn_units_2,,,,,,,
+params_dnn_units_3,,,,,,,
+params_dnn_units_4,,,,,,,
+params_dnn_units_5,,,,,,,
+params_learning_rate,0.00014532243781243602,2.327656856554213e-05,0.00011030682497284088,0.00013512697745180375,0.00013794468426771048,0.00015645365269229076,0.00018225423781729835
+params_num_layers,2.0,0.0,2.0,2.0,2.0,2.0,2.0

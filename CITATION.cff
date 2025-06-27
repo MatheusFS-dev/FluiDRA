@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+preferred-citation:
+  type: software
+  message: If you use this software, please cite it as below.
+  authors:
+  - family-names: Ferreira Silva
+    given-names: Matheus
+  - family-names: Lorenzo Sossai Silva Forza
+    given-names: Felipe
+  - family-names: Marcio Raposo Pereira
+    given-names: Pedro
+  - family-names: Augusto Pereira de Figueiredo
+    given-names: Felipe
+  - family-names: Adriano Amaral de Souza
+    given-names: Rausley
+  title: "FluiDRA"
+  version: 1.0.0
+  date-released: 2025-05-23
+  license: GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
+  url: "https://github.com/MatheusFS-dev/FluiDRA"

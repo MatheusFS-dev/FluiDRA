@@ -1,0 +1,4 @@
+Parameter,Category,Fraction,Count
+params_optimizer,AdamW,1.0,12
+params_scaler,StandardScaler,1.0,12
+params_tcnn1d_activation_0,relu,1.0,12

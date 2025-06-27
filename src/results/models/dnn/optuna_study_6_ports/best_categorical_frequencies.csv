@@ -1,0 +1,4 @@
+Parameter,Category,Fraction,Count
+params_dnn_activation_0,swish,1.0,8
+params_optimizer,AdamW,1.0,8
+params_scaler,StandardScaler,1.0,8

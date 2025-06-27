@@ -1,0 +1,7 @@
+Parameter,Category,Fraction,Count
+params_optimizer,AdamW,1.0,9
+params_scaler,StandardScaler,1.0,9
+params_tcnn1d_activation_0,leaky_relu,0.8888888888888888,8
+params_tcnn1d_activation_0,relu,0.1111111111111111,1
+params_tcnn1d_activation_1,relu,1.0,1
+params_tcnn1d_use_batch_norm_1,False,1.0,1

@@ -1,0 +1,26 @@
+rank: 1
+trial_id: 178
+loss: 0.0280133206397295
+num_params: 490532
+model_size_mb: 1.8712310791015625
+sampler: TPESampler
+Parameters:
+  scaler: StandardScaler
+  num_layers: 1
+  lstm_units_layer_0: 256
+  lstm_activation_layer_0: relu
+  lstm_recurrent_dropout_layer_0: 0.4
+  lstm_dropout_layer_0: 0.2
+  num_dense_layers: 3
+  dense_1_units: 448
+  dense_1_activation: swish
+  dense_1_dropout: 0.5
+  dense_2_units: 192
+  dense_2_activation: leaky_relu
+  dense_2_dropout: 0.1
+  dense_3_units: 64
+  dense_3_activation: elu
+  dense_3_dropout: 0.1
+  optimizer: AdamW
+  learning_rate: 0.0007841256644910345
+  batch_size: 256

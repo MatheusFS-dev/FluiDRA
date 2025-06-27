@@ -1,0 +1,17 @@
+Parameter,Category,Fraction,Count
+params_dnn_activation_0,relu,0.5555555555555556,5
+params_dnn_activation_0,elu,0.4444444444444444,4
+params_dnn_activation_1,swish,0.7777777777777778,7
+params_dnn_activation_1,elu,0.1111111111111111,1
+params_dnn_activation_1,relu,0.1111111111111111,1
+params_dnn_activation_2,elu,0.5,4
+params_dnn_activation_2,swish,0.375,3
+params_dnn_activation_2,leaky_relu,0.125,1
+params_dnn_activation_3,relu,0.7142857142857143,5
+params_dnn_activation_3,swish,0.2857142857142857,2
+params_dnn_activation_4,elu,0.7142857142857143,5
+params_dnn_activation_4,swish,0.14285714285714285,1
+params_dnn_activation_4,relu,0.14285714285714285,1
+params_dnn_activation_5,relu,1.0,2
+params_optimizer,AdamW,1.0,9
+params_scaler,StandardScaler,1.0,9

@@ -1,0 +1,12 @@
+Parameter,Category,Fraction,Count
+params_dense_1_activation,swish,0.5,7
+params_dense_1_activation,elu,0.2857142857142857,4
+params_dense_1_activation,leaky_relu,0.21428571428571427,3
+params_dense_2_activation,leaky_relu,0.7142857142857143,10
+params_dense_2_activation,swish,0.2857142857142857,4
+params_dense_3_activation,elu,1.0,14
+params_lstm_activation_layer_0,elu,0.5714285714285714,8
+params_lstm_activation_layer_0,leaky_relu,0.2857142857142857,4
+params_lstm_activation_layer_0,relu,0.14285714285714285,2
+params_optimizer,AdamW,1.0,14
+params_scaler,StandardScaler,1.0,14
